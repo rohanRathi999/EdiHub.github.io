@@ -1,2 +1,2 @@
 # EdiHub.github.io
-Public Website for open 
+Public Website for open source
